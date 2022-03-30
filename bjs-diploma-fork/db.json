@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "created_at": "2019-10-15T05:28:25.593Z",
+      "login": "oleg@demo.ru",
+      "password": "demo",
+      "id": 1,
+      "balance": {
+        "RUB": 4706.435045317221,
+        "USD": 141.31142897235114,
+        "EUR": 130,
+        "NTC": 3000
+      }
+    },
+    {
+      "created_at": "2019-11-16T05:28:25.593Z",
+      "login": "ivan@demo.ru",
+      "password": "demo",
+      "id": 2,
+      "netocoins": 100,
+      "balance": {
+        "RUB": 20,
+        "USD": 11.311428972351143,
+        "EUR": 10,
+        "NTC": 100
+      }
+    },
+    {
+      "created_at": "2019-5-14T05:28:25.593Z",
+      "login": "petr@demo.ru",
+      "password": "demo",
+      "id": 3,
+      "balance": {
+        "RUB": 20000,
+        "USD": 300,
+        "EUR": 500,
+        "NTC": 50000
+      }
+    },
+    {
+      "created_at": "2020-1-15T05:28:25.593Z",
+      "login": "galina@demo.ru",
+      "password": "demo",
+      "id": 4,
+      "balance": {
+        "RUB": 30000,
+        "USD": 150,
+        "EUR": 300,
+        "NTC": 20000
+      }
+    },
+    {
+      "created_at": "2020-2-16T05:28:25.593Z",
+      "login": "vladimir@demo.ru",
+      "password": "demo",
+      "id": 5,
+      "balance": {
+        "RUB": 60010,
+        "USD": 500,
+        "EUR": 600,
+        "NTC": 90000
+      }
+    },
+    {
+      "created_at": "2021-01-28T17:37:24.602Z",
+      "login": "f",
+      "password": "f",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-01-28T17:37:44.765Z",
+      "login": "s",
+      "password": "s",
+      "id": 7,
+      "balance": {
+        "RUB": 10,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-01-28T18:55:27.045Z",
+      "login": "q",
+      "password": "q",
+      "id": 8,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-01-28T18:55:49.765Z",
+      "login": "qq",
+      "password": "q",
+      "id": 9,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-01-28T18:57:16.924Z",
+      "login": "qqq",
+      "password": "qq",
+      "id": 10,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2021-01-29T16:17:58.244Z",
+      "login": "qqqq",
+      "password": "q",
+      "id": 11,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    }
+  ],
+  "favorites": {
+    "1": {
+      "15": "John",
+      "20": "Selesta",
+      "25": "Erika",
+      "30": "Klim"
+    },
+    "2": {
+      "1": "Чувак, который должен 20к неткойнов",
+      "3": "Партнёр по бизнесу"
+    },
+    "3": {
+      "2": "Важный клиент"
+    },
+    "5": {
+      "1": "Важный пацан",
+      "3": "Дедуля",
+      "4": "Галя"
+    }
+  }
+}
